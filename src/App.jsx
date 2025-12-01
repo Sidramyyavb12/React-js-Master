@@ -5,6 +5,10 @@ import Showdata from './Task3/Showdata'
 import Api from './Task4/Api'
 import Toggle from './Task5/Toggle'
 import "./App.css"
+import Input from './Task6/Input'
+import Search from './Task7/search'
+import Parent from './Task8/props'
+import Parents from './Task8/props2'
 function App() {
   return (
     <div>
@@ -13,7 +17,11 @@ function App() {
       {/* <Registerpage/> */}
       {/* <Showdata/> */}
       {/* <Api/> */}
-      <Toggle/>
+      {/* <Toggle/> */}
+      {/* <Input/> */}
+      {/* <Search/> */}
+      {/* <Parent/> */}
+      <Parents/>
     </div>
   )
 }
