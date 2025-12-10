@@ -7,8 +7,6 @@ function Input() {
     const handlechnage=(e)=>{
         let val=e.target.value;
         setdata(val);
-      
-        
     }
   return (
     <div className='container'>
